@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wallet Service (FastAPI)
 
 A minimal wallet system built with **FastAPI** and **SQLite**.
@@ -79,3 +80,7 @@ curl http://127.0.0.1:8000/users/1/transactions
 
 **Swagger UI:** `/docs`  
 **ReDoc:** `/redoc`
+=======
+# AMMR-Intern-Project
+Develop the assignment preferably in FastAPI (priority) or Django.  The APIs should be visible in Swagger. The functionality required is: 1) List Users API – Fetch all users details (name, email, phone) along with their wallet balance. 2) Update Wallet API – Add or update an amount in any particular user’s wallet.  3) Fetch Transaction api
+>>>>>>> a445e5b98c5113a9d3f8a6e91b928e4a9e2800d7
